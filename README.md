@@ -1,4 +1,4 @@
-# Python Tutorial Plus Questions 👩‍🏫👩🏽‍💻
+# Python Tutorial Plus Questions 👩‍🏫👩🏻‍💻 ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions.svg)
 
 > **`Note`**: This repository is still developing.
 
