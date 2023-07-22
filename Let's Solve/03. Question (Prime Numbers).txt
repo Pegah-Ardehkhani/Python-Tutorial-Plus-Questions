@@ -1,0 +1,1 @@
+Implement a function to check if a given number is prime or not. A prime number is a whole number greater than 1 that is only divisible by 1 and itself.
