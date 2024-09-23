@@ -39,7 +39,7 @@
 - 3.6. Built-in List Methods
 - 3.7. Nesting Lists
 
-**4. Tuple** 
+**4. Tuple** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb)
 
 - 4.1. Creating Tuples
 - 4.2. Built-in Tuple Functions
