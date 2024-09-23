@@ -49,7 +49,7 @@
 - 4.6. Built-in Tuple Methods
 - 4.7. Nesting Tuples
 
-**5. Dictionary**
+**5. Dictionary** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb)
 
 - 5.1. Creating Dictionary
 - 5.2. Built-in Dictionary Functions
