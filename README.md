@@ -10,7 +10,6 @@
 
 **1. Numeric Data Types** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/01.%20Python%20-%20Numeric%20Data%20Types.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/01.%20Python%20-%20Numeric%20Data%20Types.ipynb)
 
-
 - 1.1. Types of Numbers in Python
 - 1.2. Python Built-in Arithmetic Operators
 - 1.3. Python Built-in Arithmetic Functions
@@ -39,7 +38,7 @@
 - 3.6. Built-in List Methods
 - 3.7. Nesting Lists
 
-**4. Tuple** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb)
+**4. Tuple** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/04.%20Python%20-%20Tuple.ipynb)
 
 - 4.1. Creating Tuples
 - 4.2. Built-in Tuple Functions
@@ -49,7 +48,7 @@
 - 4.6. Built-in Tuple Methods
 - 4.7. Nesting Tuples
 
-**5. Dictionary** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb)
+**5. Dictionary** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/05.%20Python%20-%20Dictionary.ipynb)
 
 - 5.1. Creating Dictionary
 - 5.2. Built-in Dictionary Functions
@@ -59,7 +58,7 @@
 - 5.6. Built-in Dictionary Methods
 - 5.7. Nesting Dictionaries
 
-**6. Booleans and Comparison Operators** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb)
+**6. Booleans and Comparison Operators** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb)
 
 - 6.1. Booleans
 - 6.2. Comparison Operators
