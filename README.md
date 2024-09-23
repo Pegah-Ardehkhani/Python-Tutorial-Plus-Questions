@@ -29,3 +29,12 @@
 - 2.7. Built-in String Methods
 - 2.8. String Formatting
 
+**3. Lists** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/03.%20Python%20-%20List.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/03.%20Python%20-%20List.ipynb)
+
+- 3.1. Creating Lists
+- 3.2. Built-in List Functions
+- 3.3. List Indexing and Slicing
+- 3.4. List Properties
+- 3.5. List Operators
+- 3.6. Built-in List Methods
+- 3.7. Nesting Lists
