@@ -64,7 +64,7 @@
 - 6.2. Comparison Operators
 - 6.3. Chained Comparison Operators
 
-**7. Set**
+**7. Set** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/07.%20Python%20-%20Set.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/07.%20Python%20-%20Set.ipynb)
 
 - 7.1. Creating Sets
 - 7.2. Set Properties
