@@ -63,3 +63,11 @@
 - 6.1. Booleans
 - 6.2. Comparison Operators
 - 6.3. Chained Comparison Operators
+
+**7. Set**
+
+- 7.1. Creating Sets
+- 7.2. Set Properties
+- 7.3. Set Operators
+- 7.4. Built-in Set Methods
+- 7.5. Frozen Sets
