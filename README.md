@@ -48,3 +48,13 @@
 - 4.5. Tuple Operators
 - 4.6. Built-in Tuple Methods
 - 4.7. Nesting Tuples
+
+**5. Dictionary**
+
+- 5.1. Creating Dictionary
+- 5.2. Built-in Dictionary Functions
+- 5.3. Accessing Dictionary Values
+- 5.4. Dictionary Properties
+- 5.5. Dictionary Operators
+- 5.6. Built-in Dictionary Methods
+- 5.7. Nesting Dictionaries
