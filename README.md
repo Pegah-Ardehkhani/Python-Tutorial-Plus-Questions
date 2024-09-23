@@ -58,3 +58,9 @@
 - 5.5. Dictionary Operators
 - 5.6. Built-in Dictionary Methods
 - 5.7. Nesting Dictionaries
+
+**6. Booleans and Comparison Operators** <a href="https://colab.research.google.com/github/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/06.%20Python%20-%20Booleans%20and%20Comparison%20Operators.ipynb)
+
+- 6.1. Booleans
+- 6.2. Comparison Operators
+- 6.3. Chained Comparison Operators
