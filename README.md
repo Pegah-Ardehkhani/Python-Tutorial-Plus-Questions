@@ -71,3 +71,12 @@
 - 7.3. Set Operators
 - 7.4. Built-in Set Methods
 - 7.5. Frozen Sets
+
+**8. Conditional Statements** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/08.%20Python%20-%20Conditional%20Statements.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/08.%20Python%20-%20Conditional%20Statements.ipynb)
+
+- 8.1. Creating Sets
+- 8.2. If Statement
+- 8.3. Else Statement
+- 8.4. Elif Statement
+- 8.5. Logical Operators
+- 8.6. Conditional Expressions (Ternary Operators)
