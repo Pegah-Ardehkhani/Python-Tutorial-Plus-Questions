@@ -79,4 +79,12 @@
 - 8.3. Else Statement
 - 8.4. Elif Statement
 - 8.5. Logical Operators
-- 8.6. Conditional Expressions (Ternary Operators)
+- 8.6. Nested If Statement
+- 8.7. Conditional Expressions (Ternary Operators)
+
+**9. While Loops** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/09.%20Python%20-%20While%20Loops.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/09.%20Python%20-%20While%20Loops.ipynb)
+
+- 9.1. Introduction to While Loops
+- 9.2. Pass, Break, Continue Statements
+- 9.3. One-Line while Loops
+- 9.4. Useful Functions and Operators for Loops
