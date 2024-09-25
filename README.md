@@ -88,3 +88,6 @@
 - 9.2. Pass, Break, Continue Statements
 - 9.3. One-Line while Loops
 - 9.4. Useful Functions and Operators for Loops
+
+**10. List Comprehension** <a href="https://colab.research.google.com/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/10.%20Python%20-%20List%20Comprehensions.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/Pegah-Ardehkhani/Python_Tutorial_Plus_Questions/blob/main/Let's%20Learn%20Python/10.%20Python%20-%20List%20Comprehensions.ipynb)
+
