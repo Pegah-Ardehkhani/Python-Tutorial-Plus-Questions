@@ -97,3 +97,14 @@
 - 11.2. Nested Functions
 - 11.3. Special Built-in Functions (map, filter, lambda, all, any)
 - 11.4. *args and *kargs
+
+**12. Object-Oriented Programming**
+
+- 12.1. Objects
+- 12.2. Class
+- 12.3. Instance
+- 12.4. Attributes
+- 12.5. Methods
+- 12.6. Inheritance
+- 12.7. Polymorphism
+- 12.8. Special Methods in OOP
